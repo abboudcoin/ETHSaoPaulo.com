@@ -7,6 +7,11 @@
 #   icon: Specify a valid fontawesome icon class
 
 facebook:
+  name: "Meetup"
+  baseURL: "https://www.meetup.com/ethereum_sp/"
+  icon: "fa-meetup"
+  
+facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
   icon: "fa-facebook"
